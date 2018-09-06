@@ -59,17 +59,28 @@
 ### :diamond_shape_with_a_dot_inside: <a name="simple-questions">Simple Questions</a>
 
 - <b>What did you learn this week?</b>
+- <b>Ans:i have learn basic linux commands this week</b>
 - <b>What excites or interests you about the Sysadmin world?</b>
+- <b>Ans:Troubleshooting of Hardware & software related problems excites me.</b>
 - <b>What is a recent technical challenge you experienced and how did you solve it?</b>
+- <b>Ans:Recent technical challenge that i have faced was to allign the cables of our vbras servers without unpluging any link.</b>
+  <b>i have done this job by doing it after office timing & make sure that every server is up after that cabling.</b>
 - <b>Tell me about the last major project you finished.</b>
+- <b>Ans:Huawei Jazz-warid Merger Project.</b>
 - <b>Do you contribute to any open source projects?</b>
+- <b>Ans:No</b>
 - <b>Describe the setup of your homelab.</b>
+- <b>Ans:i hav'nt got any homelab setup so far.</b>
 - <b>What personal achievement are you most proud of?</b>
+- <b>Ans:i have got research publication on 'Virtual Reality Based Immersion System'.</b>
 - <b>Tell me about the biggest mistake you've made.</b>
+- <b>Ans:The biggest technical mistake so far i have done is to reboot huawei switch.</b>
 - <b>Tell me about your favorite UNIX-like system.</b>
+- <b>Ans:linux.</b>
 - <b>Tell me about how you manage your knowledge database (e.g. wikis).</b>
+- <b>Ans:I used wikipedia & techopedia as my knowledge database.</b>
 - <b>What news sources do you check daily? (Sysadmin or security-related)</b>
-
+- <b>Ans:Daily Express & Dawn News.</b>
 ## <a name="general-knowledge">General Knowledge</a>
 
 ### :diamond_shape_with_a_dot_inside: <a name="junior-sysadmin">Junior Sysadmin</a>
