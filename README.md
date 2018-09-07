@@ -59,7 +59,7 @@
 ### :diamond_shape_with_a_dot_inside: <a name="simple-questions">Simple Questions</a>
 
 - <b>What did you learn this week?</b>
-- <b>Ans:i have learn basic linux commands this week</b>
+- <b>Ans:i have learn basic linux commands this week.</b>
 - <b>What excites or interests you about the Sysadmin world?</b>
 - <b>Ans:Troubleshooting of Hardware & software related problems excites me.</b>
 - <b>What is a recent technical challenge you experienced and how did you solve it?</b>
@@ -68,7 +68,7 @@
 - <b>Tell me about the last major project you finished.</b>
 - <b>Ans:Huawei Jazz-warid Merger Project.</b>
 - <b>Do you contribute to any open source projects?</b>
-- <b>Ans:No</b>
+- <b>Ans:No.</b>
 - <b>Describe the setup of your homelab.</b>
 - <b>Ans:i hav'nt got any homelab setup so far.</b>
 - <b>What personal achievement are you most proud of?</b>
@@ -80,7 +80,7 @@
 - <b>Tell me about how you manage your knowledge database (e.g. wikis).</b>
 - <b>Ans:I used wikipedia & techopedia as my knowledge database.</b>
 - <b>What news sources do you check daily? (Sysadmin or security-related)</b>
-- <b>Ans:Daily Express & Dawn News.</b>
+- <b>Ans:Stackoverflow & Reddit.</b>
 ## <a name="general-knowledge">General Knowledge</a>
 
 ### :diamond_shape_with_a_dot_inside: <a name="junior-sysadmin">Junior Sysadmin</a>
